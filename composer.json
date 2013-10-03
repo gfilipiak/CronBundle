@@ -3,7 +3,7 @@
     "type": "symfony-bundle",
     "description": "This bundle provides scheduled execution of Symfony2 commands",
     "keywords": ["cron", "schedule", "time"],
-    "homepage": "http://github.com/predakanga/CronBundle",
+    "homepage": "http://github.com/gfilipiak/CronBundle",
     "license": "MIT",
     "authors": [
         {
