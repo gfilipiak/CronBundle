@@ -1,9 +1,9 @@
 {
-    "name": "gfilipiak/cron-bundle",
+    "name": "colourstream/cron-bundle",
     "type": "symfony-bundle",
     "description": "This bundle provides scheduled execution of Symfony2 commands",
     "keywords": ["cron", "schedule", "time"],
-    "homepage": "http://github.com/gfilipiak/CronBundle",
+    "homepage": "http://github.com/predakanga/CronBundle",
     "license": "MIT",
     "authors": [
         {
@@ -13,10 +13,10 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony/symfony": "2.2.*",
+        "symfony/symfony": "2.1.*",
         "doctrine/doctrine-bundle": "*"
     },
-    "minimum-stability": "master",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-0": { "ColourStream\\Bundle\\CronBundle": "" }
     },
